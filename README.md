@@ -1,4 +1,3 @@
-````md
 <!-- Banner / Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Renzo%20Reymundo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronic%20Engineering%20%7C%20Hardware%20%2B%20Software%20%2B%20Cloud%20%2B%20AI&descAlignY=58&descSize=18" />
@@ -244,4 +243,4 @@ I believe engineering is not only about building systems, but about creating opp
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>
-```
+
