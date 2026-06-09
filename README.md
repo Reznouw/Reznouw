@@ -147,40 +147,6 @@ Some of the areas where I have worked, explored or built projects:
 
 ---
 
-## 🌱 Currently Learning
-
-```txt
-Azure Infrastructure      █████████░░
-Data Engineering          █████████░░
-AWS Machine Learning      ████████░░░
-Next.js + Supabase        ████████░░░
-DevNet & Networking       ███████░░░░
-AI Agents & Automation    █████████░░
-````
-
----
-
-## 🌎 Languages
-
-* Spanish: Native
-* English: Intermediate
-
----
-
-## 🎯 My Long-Term Vision
-
-I want to become a technology leader and entrepreneur capable of building solutions that create impact in Latin America and the world.
-
-My dream is to work on meaningful technologies that combine:
-
-<p align="center">
-  <b>Hardware + Software + Cloud + Data + Artificial Intelligence</b>
-</p>
-
-I believe engineering is not only about building systems, but about creating opportunities, solving real problems and improving people's lives through technology.
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
