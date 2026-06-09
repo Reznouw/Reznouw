@@ -17,56 +17,13 @@
 <h2 align="center">Hi, I'm Renzo 👋</h2>
 
 <p align="center">
-  <b>Electronic Engineering student from Peru</b> passionate about building technology that connects the physical and digital world.
+  <b> Electronic Engineering student with a strong interest in creating real-world technology solutions that combine multiple areas of engineering and software development.
 </p>
 
 <p align="center">
   I love learning, creating and experimenting with <b>hardware, software, cloud, data, artificial intelligence, IoT and embedded systems</b>.
-  My goal is to become a technology leader capable of designing complete solutions: from sensors and circuits to scalable cloud platforms and intelligent applications.
+  I expanded into software development, cloud computing, data engineering, artificial intelligence and autonomous agents because I believe the future belongs to engineers who can understand and connect the complete technological stack.
 </p>
-
----
-
-## 🚀 About Me
-
-I am an Electronic Engineering student with a strong interest in creating real-world technology solutions that combine multiple areas of engineering and software development.
-
-My journey started with electronics, microcontrollers, sensors, telecommunications and embedded systems. Over time, I expanded into software development, cloud computing, data engineering, artificial intelligence and autonomous agents because I believe the future belongs to engineers who can understand and connect the complete technological stack.
-
-I am constantly learning and building. I enjoy transforming ideas into prototypes, projects and systems that can generate impact in education, health, telecommunications, industry and society.
-
-> My vision is simple: **build technology from circuits to cloud, from data to AI, and from ideas to real-world impact.**
-
----
-
-## 🧠 Current Focus
-
-- 🤖 AI agents, automation and intelligent workflows  
-- ☁️ Cloud infrastructure with Azure, Google Cloud and AWS  
-- 📊 Data Engineering, ETL pipelines and analytics  
-- 🌐 Full-stack development with Next.js and Supabase  
-- 🔌 IoT, embedded systems and hardware integration  
-- 📡 Networks, telecommunications and DevNet  
-- 🚀 Building projects that create opportunities for students in Latin America  
-
----
-
-## 🌎 Featured Project
-
-### Opportunities Platform for Latin American Students
-
-I am currently building a web platform with **Next.js** and **Supabase** to share opportunities such as:
-
-- Scholarships  
-- Internships  
-- International programs  
-- Free courses  
-- Hackathons  
-- Competitions  
-- Technology events  
-- Academic and professional opportunities  
-
-The goal is to help students discover opportunities that can transform their academic and professional future.
 
 ---
 
