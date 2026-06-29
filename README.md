@@ -1,7 +1,5 @@
 <!-- Banner / Header -->
 
----
-
 <h2 align="center">Hi, I'm Renzo 👋</h2>
 
 <p align="center">
