@@ -137,13 +137,6 @@ Some of the areas where I have worked, explored or built projects:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reznouw&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reznouw&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reznouw&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
 
 ---
 
@@ -159,11 +152,5 @@ Some of the areas where I have worked, explored or built projects:
   <a href="https://github.com/Reznouw">
     <img src="https://img.shields.io/badge/GitHub-Reznouw-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>
 
