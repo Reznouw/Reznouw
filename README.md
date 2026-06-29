@@ -2,9 +2,6 @@
 
 <h2 align="center">Hi, I'm Renzo 👋</h2>
 
-<p align="center">
-  <b> Electronic Engineering student with a strong interest in creating real-world technology solutions that combine multiple areas of engineering and software development.
-</p>
 
 <p align="center">
   I love learning, creating and experimenting with <b>hardware, software, cloud, data, artificial intelligence, IoT and embedded systems</b>.
