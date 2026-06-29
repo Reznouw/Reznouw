@@ -1,16 +1,4 @@
 <!-- Banner / Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Renzo%20Reymundo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Electronic+Engineering+Student;Building+from+Circuits+to+Cloud;IoT+%7C+Cloud+%7C+Data+%7C+AI+%7C+Embedded+Systems;Future+Technology+Leader+from+Peru" 
-      alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
