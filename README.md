@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Renzo%20Reymundo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronic%20Engineering%20%7C%20Hardware%20%2B%20Software%20%2B%20Cloud%20%2B%20AI&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Renzo%20Reymundo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18" />
 </p>
 
 <!-- Typing Animation -->
@@ -85,16 +85,6 @@
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
-### 📊 Management, Design & Technical Reporting
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/IEEE%20Reports-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
-</p>
-
 ---
 
 ## 🔬 Areas I Love Exploring
@@ -114,26 +104,9 @@
 
 ---
 
-## 📌 Projects & Experience
-
-Some of the areas where I have worked, explored or built projects:
-
-- IoT systems with ESP32, Arduino and sensors  
-- RFID-based inventory and warehouse management systems  
-- Digital Signal Processing projects using MATLAB and Python  
-- Embedded systems and FPGA-based designs  
-- Web platforms for opportunity sharing and automation  
-- Cloud and data engineering learning projects  
-- AI-assisted development and autonomous agent workflows  
-- Student leadership projects in IEEE and technology communities  
-- Technical reports, presentations and engineering documentation  
-
----
-
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Reznouw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reznouw&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
